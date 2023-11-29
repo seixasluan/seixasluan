@@ -1,8 +1,8 @@
 ### Olá, Eu sou Luan Seixas
 
-- 🔭  Técnico em TI, Fullstack
-- 🌱  Estudando: Typescript/Node.js/React
-- 😄  Pronomes: Ele/Dele
+- 🔭  Técnico em TI, Desenvolvedor Fullstack
+- 🌱  Estudando: Typescript/React/Next.js
+- ⚠   Open To Work (Aberto para trabalho)
 
 <div>
   <a href="https://github.com/seixasluan">
