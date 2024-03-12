@@ -1,8 +1,8 @@
 ### Olá, Eu sou Luan Seixas
 
 - 🔭  Técnico em TI, Desenvolvedor Fullstack
-- 🌱  Estudando: Typescript, React, Next.js
-- 🤓  Estudos futuros: Laravel, Docker, AWS
+- 🌱  Estudando: Next.js
+- 🤓  Estudos futuros: Angular, Vue.js, DevOps
 - ⚠   Open To Work (Aberto para trabalho)
 
 <div>
