@@ -4,7 +4,7 @@ Sou um(a) desenvolvedor(a) de software. Tenho paixão por desenvolvimento web e 
 
 ## 🌱 Tecnologias e Ferramentas
 
-- **Linguagens:** [Typescript, C#, ]
+- **Linguagens:** [Typescript, Java, C#, PHP]
 - **Frameworks:** [Node.js, Fastify, React, Next.js]
 - **Ferramentas:** [Git, VS Code, etc.]
 - **Banco de Dados:** [MySQL, MongoDB, PostgreSQL, etc.]
